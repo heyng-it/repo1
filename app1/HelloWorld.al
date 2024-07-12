@@ -6,7 +6,7 @@ pageextension 50000 CustomerListExt3 extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('App published: Hello world DeployToDev Test3');
+        Message('App published: Hello world DeployToDev Test4');
     end;
 }
 
