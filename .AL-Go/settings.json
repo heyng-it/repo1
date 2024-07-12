@@ -5,15 +5,4 @@
   "bcptTestFolders": [],
   "repoVersion": "1.1",
   "artifact": "bcartifacts/sandbox/24.3.21374.21517/de/closest",
-  "DeployToDev": {
-    "EnvironmentName": "Dev",
-    "continuousDeployment": true
-  },
-  "DeployToPROD":
-  {
-  "continuousDeployment": false  
-  },
-  "CurrentSchedule": "0 2 * * *",
-  "NextMinorSchedule": "0 2 * * 6",
-  "NextMajorSchedule": "0 2 * * 0"
-}
+  }
