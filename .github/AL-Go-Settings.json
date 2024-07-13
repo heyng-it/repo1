@@ -11,5 +11,6 @@
   "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
   "NextMajorSchedule": "0 2 * * 0",
+  "DeployReferenceDocumentationSchedule": "0 4 * * *",
   "templateSha": "81cff3d03e8fe6b88ee3fc0848594bfd4d9039a4"
 }
