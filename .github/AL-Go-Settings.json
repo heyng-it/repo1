@@ -5,9 +5,8 @@
     "EnvironmentName": "Dev",
     "continuousDeployment": true
   },
-  "DeployToPROD":
-  {
-  "continuousDeployment": false  
+  "DeployToPROD": {
+    "continuousDeployment": false
   },
   "CurrentSchedule": "0 2 * * *",
   "NextMinorSchedule": "0 2 * * 6",
